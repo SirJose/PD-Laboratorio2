@@ -2,6 +2,8 @@
 
 Version 1.0.0 del Laboratorio 2 de Product Development.
 
+Link: [Latest Release](https://github.com/SirJose/PD-Laboratorio2/releases/latest)
+
 # Instrucciones
 Para ejecutar este proyecto se deben ejecutar los siguientes comandos:
 
