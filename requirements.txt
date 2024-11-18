@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+joblib
+fastapi
+uvicorn
+hyperopt
+pyarrow
+fastparquet
+python-dotenv
