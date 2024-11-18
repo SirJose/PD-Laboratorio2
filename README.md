@@ -1,6 +1,6 @@
-# Version 1.0.0
+# Version 1.0.1
 
-Version 1.0.0 del Laboratorio 2 de Product Development.
+Version 1.0.1 del Laboratorio 2 de Product Development.
 
 Link: [Latest Release](https://github.com/SirJose/PD-Laboratorio2/releases/latest)
 
